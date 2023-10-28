@@ -10,10 +10,10 @@ Improve on-device speech recognition  by customizing the language model
 
 ## Preview
 
-<img src="https://github.com/ihmouda/CustomHealthData/raw/main/CustomHealthData/Resources/images/a_camel.png" width="260"/>
-
-<img src="https://github.com/ihmouda/CustomHealthData/raw/main/CustomHealthData/Resources/images/acamol.png" width="260"/>
-
+<p float="left">
+    <img src="https://github.com/ihmouda/CustomHealthData/raw/main/CustomHealthData/Resources/images/a_camel.png" width="35%"/>
+    <img src="https://github.com/ihmouda/CustomHealthData/raw/main/CustomHealthData/Resources/images/acamol.png" width="35%"/>
+</p>
 
 ## Requirements
 
