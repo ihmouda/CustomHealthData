@@ -59,7 +59,6 @@ class SpeechRecognitionManager: ObservableObject {
     
     func requestSpeech() throws {
         
-        
         self.isAvaliable = false
         
         // Cancel the previous task if it's running.

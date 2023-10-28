@@ -14,6 +14,8 @@
 		1F0676422AECE32D009BF3D4 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1F06763C2AECE32D009BF3D4 /* ContentView.swift */; };
 		1F0676462AECE4A0009BF3D4 /* CustomLMData.bin in Resources */ = {isa = PBXBuildFile; fileRef = 1F0676452AECE4A0009BF3D4 /* CustomLMData.bin */; };
 		1F0A03B92AEBB1C500A8B92E /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1F0A03B82AEBB1C500A8B92E /* main.swift */; };
+		1F363AD42AECF2A7009D276E /* acamol.png in Resources */ = {isa = PBXBuildFile; fileRef = 1F363AD22AECF2A7009D276E /* acamol.png */; };
+		1F363AD52AECF2A7009D276E /* a_camel.png in Resources */ = {isa = PBXBuildFile; fileRef = 1F363AD32AECF2A7009D276E /* a_camel.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -38,6 +40,8 @@
 		1F0A03A12AEBB16E00A8B92E /* CustomHealthData.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CustomHealthData.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		1F0A03B62AEBB1C500A8B92E /* CustomHealthDataML */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = CustomHealthDataML; sourceTree = BUILT_PRODUCTS_DIR; };
 		1F0A03B82AEBB1C500A8B92E /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		1F363AD22AECF2A7009D276E /* acamol.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = acamol.png; sourceTree = "<group>"; };
+		1F363AD32AECF2A7009D276E /* a_camel.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = a_camel.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -90,6 +94,7 @@
 		1F0676442AECE341009BF3D4 /* Resources */ = {
 			isa = PBXGroup;
 			children = (
+				1F363AD12AECF287009D276E /* images */,
 				1F0676452AECE4A0009BF3D4 /* CustomLMData.bin */,
 			);
 			path = Resources;
@@ -119,6 +124,15 @@
 				1F0A03B82AEBB1C500A8B92E /* main.swift */,
 			);
 			path = CustomHealthDataML;
+			sourceTree = "<group>";
+		};
+		1F363AD12AECF287009D276E /* images */ = {
+			isa = PBXGroup;
+			children = (
+				1F363AD32AECF2A7009D276E /* a_camel.png */,
+				1F363AD22AECF2A7009D276E /* acamol.png */,
+			);
+			path = images;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -202,6 +216,8 @@
 			files = (
 				1F06763E2AECE32D009BF3D4 /* Assets.xcassets in Resources */,
 				1F0676462AECE4A0009BF3D4 /* CustomLMData.bin in Resources */,
+				1F363AD52AECF2A7009D276E /* a_camel.png in Resources */,
+				1F363AD42AECF2A7009D276E /* acamol.png in Resources */,
 				1F06763F2AECE32D009BF3D4 /* Preview Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
