@@ -100,7 +100,7 @@ This sample project demonstrates how to customize and improve the accurecy of th
     request.customizedLanguageModel = self.lmConfiguration
     ```
 
-### Refer to my article on [hashnode](https://github.com/ihmouda/CustomHealthData/blob/master/LICENSE) for full documentation.
+### Refer to my article on [hashnode](https://blog.lemona.tech/improve-on-device-speech-recognition-by-customizing-the-language-model-ios-17) for full documentation.
 
 
 ## Author
